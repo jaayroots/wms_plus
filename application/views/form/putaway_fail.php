@@ -1,0 +1,1 @@
+<div align="center" style="color:#FF6633;margin:10px auto"><?php echo $data['warning'];?></div>

@@ -1,0 +1,14 @@
+<HTML xmlns:o="urn:schemas-microsoft-com:office:office"
+      xmlns:x="urn:schemas-microsoft-com:office:excel"
+      xmlns="http://www.w3.org/TR/REC-html40">
+    <!--<HTML>-->
+    <HEAD>
+        <meta http-equiv="Content-type" content="text/html;charset=tis-620" />
+    </HEAD>
+    <BODY>
+        <TABLE  x:str BORDER="1">
+        <!--<tr>-->
+            <TR><td><b><font face="Tahoma" size=2>No.</font></b></td><td><b><font face="Tahoma" size=2>FirstOfTRANSDATE</font></b></td><td><b><font face="Tahoma" size=2>FirstOfECL-TYPE</font></b></td><td><b><font face="Tahoma" size=2>DOC-MAIN</font></b></td><td><b><font face="Tahoma" size=2>ITEMNO</font></b></td><td><b><font face="Tahoma" size=2>ECO_IN</font></b></td><td><b><font face="Tahoma" size=2>JWD_IN</font></b></td><td><b><font face="Tahoma" size=2>Diif_IN</font></b></td><td><b><font face="Tahoma" size=2>ECO_OUT</font></b></td><td><b><font face="Tahoma" size=2>JWD_OUT</font></b></td><td><b><font face="Tahoma" size=2>Diff_OUT</font></b></td><td><b><font face="Tahoma" size=2>SumDiff</font></b></td></TR>            <!--</tr>-->
+        </TABLE>
+    </BODY>
+</HTML>

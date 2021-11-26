@@ -1,0 +1,167 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+<HTML>
+<HEAD>
+<meta http-equiv="Content-type" content="text/html;charset=tis-620" />
+</HEAD>
+<BODY>
+<TABLE  x:str BORDER="1">
+<tr>
+<td><b>FirstOfTRANSDATE</b></td><td><b>FirstOfECL_TYPE</b></td><td><b>DOC-MAIN</b></td><td><b>ITEMNO</b></td><td><b>ECL_IN</b></td><td><b>JWD_IN</b></td><td><b>Diff_IN </b></td><td><b>ECL_OUT</b></td><td><b>JWD_OUT</b></td><td><b>Diff_OUT </b></td><td><b>SumDiff</b></td><tr>
+						<td>07/01/2021</td>
+						<td>Shipment</td>
+						<td>COMPENSERT25-21</td>
+						<td>203-300083</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="3">3</td>
+						<td x:num="3">3</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0" >0</td>
+					</tr>
+                                        <tr>
+						<td>07/01/2021</td>
+						<td>Shipment</td>
+						<td>FB2021-0081</td>
+						<td>102-104520</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="2">2</td>
+						<td x:num="0.25">0.25</td>
+                        <td x:num="-1.75" >-1.75</td>
+						<td x:num="-1.75" >-1.75</td>
+					</tr>
+                                        <tr>
+						<td>04/01/2021</td>
+						<td>test</td>
+						<td>test_test</td>
+						<td>123</td>
+						<td x:num="1400">1400</td>
+						<td x:num="0">0</td>
+                        <td x:num="-1400" >-1400</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="-1400" >-1400</td>
+					</tr>
+                                        <tr>
+						<td>04/01/2021</td>
+						<td>test</td>
+						<td>test_test</td>
+						<td>125</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="1000">1000</td>
+						<td x:num="0">0</td>
+                        <td x:num="-1000" >-1000</td>
+						<td x:num="-1000" >-1000</td>
+					</tr>
+                                        <tr>
+						<td>07/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>FB2021-0081</td>
+						<td>204-304203</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="1">1</td>
+                        <td x:num="1" >1</td>
+						<td x:num="1" >1</td>
+					</tr>
+                                        <tr>
+						<td>07/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2103447</td>
+						<td>102-102500</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="15">15</td>
+                        <td x:num="15" >15</td>
+						<td x:num="15" >15</td>
+					</tr>
+                                        <tr>
+						<td>07/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2103448</td>
+						<td>102-102500</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="3">3</td>
+                        <td x:num="3" >3</td>
+						<td x:num="3" >3</td>
+					</tr>
+                                        <tr>
+						<td>07/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2103449</td>
+						<td>203-302838</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="2">2</td>
+                        <td x:num="2" >2</td>
+						<td x:num="2" >2</td>
+					</tr>
+                                        <tr>
+						<td>07/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2103450</td>
+						<td>202-308902</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="11">11</td>
+                        <td x:num="11" >11</td>
+						<td x:num="11" >11</td>
+					</tr>
+                                        <tr>
+						<td>07/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2103451</td>
+						<td>205-305343</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="20">20</td>
+                        <td x:num="20" >20</td>
+						<td x:num="20" >20</td>
+					</tr>
+                                        <tr>
+						<td>07/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2103452</td>
+						<td>203-304509</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="1">1</td>
+                        <td x:num="1" >1</td>
+						<td x:num="1" >1</td>
+					</tr>
+                                        <tr>
+						<td>07/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2103453</td>
+						<td>201-301307</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="1">1</td>
+                        <td x:num="1" >1</td>
+						<td x:num="1" >1</td>
+					</tr>
+                                        </tr>

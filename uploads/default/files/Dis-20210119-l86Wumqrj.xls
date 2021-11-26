@@ -1,0 +1,11 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+<HTML>
+<HEAD>
+<meta http-equiv="Content-type" content="text/html;charset=tis-620" />
+</HEAD>
+<BODY>
+<TABLE  x:str BORDER="1">
+<tr>
+<td><b>FirstOfTRANSDATE</b></td><td><b>FirstOfECL_TYPE</b></td><td><b>DOC-MAIN</b></td><td><b>ITEMNO</b></td><td><b>ECL_IN</b></td><td><b>JWD_IN</b></td><td><b>Diff_IN </b></td><td><b>ECL_OUT</b></td><td><b>JWD_OUT</b></td><td><b>Diff_OUT </b></td><td><b>SumDiff</b></td></tr>

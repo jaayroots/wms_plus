@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<renters>
+  <renter>
+    <id/>
+    <name>Ecolab</name>
+    <fullname>Ecolab</fullname>
+    <alias>ECOLAB</alias>
+    <departments>
+	<department>
+        <id/>
+        <ownerNameTH>Ecolab</ownerNameTH>
+        <ownerNameEN>Ecolab</ownerNameEN>
+        <alias>ECOLAB</alias>
+        <database>ecolab.xml</database>
+      </department>
+    </departments>
+  </renter>
+</renters>

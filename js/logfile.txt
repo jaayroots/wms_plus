@@ -1,0 +1,13 @@
+js/util.js|1598854363
+js/jquery.js|1598854363
+js/jquery.dataTables.min.js|1598854362
+js/jquery.dataTables.editable.js|1598854363
+js/FixedHeader.min.js|1598854363
+js/jquery.jeditable.js|1598854363
+js/jquery-ui.js|1598854363
+js/jquery.jeditable.datepicker.js|1598854363
+js/jquery.validate.js|1598854362
+js/bootstrap.min.js|1598854363
+js/bootstrap-datepicker.js|1598854363
+js/FixedColumns.js|1598854363
+js/jquery.checkboxtree.min.js|1598854362

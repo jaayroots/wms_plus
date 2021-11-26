@@ -1,0 +1,508 @@
+::selection{ background-color: #E13300; color: white; }
+::moz-selection{ background-color: #E13300; color: white; }
+::webkit-selection{ background-color: #E13300; color: white; }
+
+body {
+        background-color: #fff;
+		height: 100%;
+        margin: 0px;
+        font: 13px/20px normal Helvetica, Arial, sans-serif;
+        color: #4F5155;
+		background-color: #c7c8c1;
+		background-image:  url(images/background.png);
+		background-repeat: repeat
+}
+
+a {
+        color: #003399;
+        background-color: transparent;
+        font-weight: normal;
+}
+
+h1 {
+        color: #444;
+        background-color: transparent;
+        border-bottom: 2px dotted #FF6600;
+		border-bottom-style: dotted; 
+		font-size: 19px;
+        font-weight: normal;
+        margin: 0 0 10px 0;
+        padding: 14px 15px 10px 15px;
+		
+}
+
+code {
+        font-family: Consolas, Monaco, Courier New, Courier, monospace;
+        font-size: 12px;
+        background-color: #f9f9f9;
+        border: 1px solid #D0D0D0;
+        color: #002166;
+        display: block;
+        margin: 14px 0 14px 0;
+        padding: 12px 10px 12px 10px;
+}
+
+
+legend {
+  padding: 0.2em 0.5em;
+  font-size:80%;
+  font-weight:bold;
+  text-align:left;
+  color:#434951;
+}
+
+label {
+  margin-right:0.1em;
+  padding-top:0.1em;
+  text-align:right;
+  font-weight:bold;
+ }
+
+
+p.footer{
+        text-align: right;
+        font-size: 11px;
+        border-top: 1px solid #D0D0D0;
+        line-height: 32px;
+        padding: 0 10px 0 10px;
+        margin: 20px 0 0 0;
+}
+
+#body{
+        margin: 0 15px 0 15px;
+}
+
+#container{
+        margin: 10px;
+        border: 1px solid #D0D0D0;
+        -webkit-box-shadow: 0 0 8px #D0D0D0;
+}
+
+#div_table{
+	width:100%;
+	height:150px; 
+	overflow:auto;
+}
+
+#dialog{
+	margin: 0 auto;
+}
+
+
+.field_border { 
+	border:1px solid green  ;
+	width: 98%;		
+	margin: 0 auto;
+    margin-left : 0px;
+    margin-right : 0px;
+	padding: 10px;
+	background-image:  url(images/shade.png); 
+	background-repeat: no-repeat;
+	background-position:center; 
+	-moz-border-radius : 0.4em;
+    -khtml-border-radius : 0.4em;
+	border-radius: 5px 5px 5px 5px;
+}
+
+.field_no_border { 
+	border:0px solid gray ;
+	width: 98%;		
+    margin-left : auto;
+    margin-right : auto;
+}
+
+
+.button-link {
+    padding: 5px;
+	width: 60px;
+    background: #000000 url(images/shadedbutton11.gif);
+    color: #FFF;
+    cursor: pointer;
+    border: 0px #000000 solid; 
+}
+
+.btntxt{
+    text-align: left;
+    
+}
+
+.button-menu {
+    font-size: 13px;
+    background: #000000;
+    background: #000000 url(images/shade.png);
+    border: 0px #000000 solid;
+    color: #FFF;
+    cursor: pointer;
+    width: 100%;
+    height: 30px;
+    text-align: left;
+    /*text-decoration: line-through;*/
+}
+
+.button-menu2 {
+    /*padding: 5px 10px;*/
+    font-size: 13px;
+    background: #000000;
+    border: 1px #000000 solid;
+    color: #FFF;
+    cursor: pointer;
+    
+}
+
+.button-arrow {
+	text-align:left; 
+	width: 30px;
+	height:22px;
+    background: #000000 url(images/shadedbutton11.gif);
+    color: #FFF;
+    cursor: pointer;
+    border: 0px #000000 solid; 
+	padding: 0px 0px;
+}
+
+.button-action {
+    border: 2px #000000 solid;
+    background: #000000;
+    color: #FFF;
+    cursor: pointer;
+	width:25px;
+	height:25px;
+	text-align:center; 
+}
+
+.button-action2 {
+    padding: 10px 15px;
+    border: 1px #000000 solid;
+    background: #000000;
+    color: #FFF;
+    cursor: pointer;
+}
+
+.field_readonly{
+	background-color:#D0D0D0;
+}
+
+
+.popup_dialog{
+	width: 220px;
+	height:300px;
+	display:none;
+	overflow:hidden;
+	color: red; 
+	font-size: 12px;
+}
+
+.minicon{
+	width:20px;
+	height:20px;
+	vertical-align:text-bottom;
+}
+
+.img_icon { 
+	 display: table-cell;
+	 width: 20px; 
+	 height: 20px;
+	 background-image: url(images/location.png);
+     background-repeat: no-repeat;
+     background-position: left top;
+}
+
+
+.txt{
+    border: 1px #000000 solid;
+	width: 140px;
+	margin-top:0.2em;
+	margin-bottom:0.2em;
+	padding:1px;
+	border: 1px #000000 solid;
+}
+
+.input1 	{ 
+	width: 70px; 
+	height:20px;
+	margin-top:0;
+	margin-bottom:0;
+	padding:0px;
+}
+.input2	{ width: 140px; }
+
+
+
+.txtLogin{
+    width: 98%;
+    border: 1px #4479BA solid;
+}
+
+.qty{
+    border: 1px #000000 solid;
+    font-size: 9px;
+    height: 15;
+}
+
+.fieldform{
+    margin: 3px;
+}
+
+.header_main{
+    width: 100%;
+    height: 30px;
+	background: #000000;
+    color: #FFF;
+}
+
+.footer_main{
+    width: 100%;
+    /*position: absolute; bottom: 0px; */
+}
+
+.texterror{
+	position: relative;
+   text-align:center;
+   font-size: 12px;
+   color: red;
+   margin-bottom : 1px;
+}
+
+.stRowTable{
+    cursor: pointer;
+}
+
+.stRowTable:hover{
+    background: red;
+    
+}
+
+/*----- Table ------*/
+
+.tableheader{
+    background: #000 url(images/shadedbutton11.gif);
+    color:white;
+	height:20px
+}
+
+.tablebody{
+	border-width:0px; 
+	padding:2px;	
+	border-style: inset; 
+    border-color: white;
+	background-color:white;
+    cursor:pointer;
+}
+
+
+table.tabborder {
+	border-width:0px; 
+	border-spacing:0px; 
+	border-style:solid; 
+    border-color:gray;
+	border-collapse:separate; 
+	background-color:white;
+}
+
+table.tabborder th,table.tabborder td {
+	border-width:0px; 
+	padding:2px;	
+	border-style:inset; 
+    border-color: black;
+	background-color:white;
+    cursor:pointer;
+}
+
+
+th.tabborder ,td .tabborder {
+	padding:2px;	
+	border-style:solid; 
+    border-color: white;
+	border-width:0px; 
+	border-spacing:0px; 
+	border-collapse:separate;
+	background-color:white;
+    cursor: pointer;
+}
+
+.bold8 {
+	font-size:7pt; font-family:verdana,arial,serif; text-align:center; 
+    font-weight:bold; color: white
+}
+
+.boldx {
+	font-size:7pt; font-family:verdana,arial,serif;  
+     font-weight:bold; color: white
+}
+
+.pt8 {
+	font-size:10px; font-family:verdana,arial,serif;
+}
+/*------------------*/
+
+
+.space5{
+	 width: 5px;
+}
+
+
+#errMsg {
+	/*display:block;
+	margin:15px 0;
+	padding:10px 10px 10px 65px;
+	background:url("../images/status-info.png") no-repeat scroll 10px 50% #D8E5F8;
+	border-bottom:3px solid #629DE3;
+	border-top:3px solid #629DE3; */
+	color: red; 
+	font-size: 12px;
+}
+
+/*=====================================*/
+/*============ Grid TABLE =================*/
+/*=====================================*/	
+
+
+/* define height and width of scrollable area. Add 16px to width for scrollbar          */
+div.tableContainer {
+	/*clear: both;*/
+	float: right;
+	/*border: 1px solid #963;*/
+	/*overflow: auto;*/
+	width: 100%
+}
+
+/* Reset overflow value to hidden for all non-IE browsers. */
+html>body div.tableContainer {
+	float: right;
+	/*overflow: hidden;*/
+	width: 100%
+}
+
+/* define width of table. IE browsers only                 */
+div.tableContainer table {
+	float: right;
+	width: 100%
+
+}
+
+/* define width of table. Add 16px to width for scrollbar.           */
+/* All other non-IE browsers.                                        */
+html>body div.tableContainer table {
+	width: 100%;
+}
+
+/* set table header to a fixed position. WinIE 6.x only                                       */
+/* In WinIE 6.x, any element with a position property set to relative and is a child of       */
+/* an element that has an overflow property set, the relative value translates into fixed.    */
+/* Ex: parent element DIV with a class of tableContainer has an overflow property set to auto */
+thead.fixedHeader tr {
+	/*position: relative;   >> error on IE*/ 
+}
+
+/* set THEAD element to have block level attributes. All other non-IE browsers            */
+/* this enables overflow to work on TBODY element. All other non-IE, non-Mozilla browsers */
+html>body thead.fixedHeader tr {
+	/*display: block*/
+}
+
+
+/* make the TH elements pretty */
+thead.fixedHeader th {
+	background: #000 url(images/shade_black.gif);
+    color:white;
+	height:20px
+	border-width:0px; 
+/*	border-left: 1px solid #EB8;
+	border-right: 1px solid #B74;
+	border-top: 1px solid #EB8; 
+	*/
+	font-weight: bold;
+	padding: 4px 3px;
+	text-align: center
+}
+
+/* make the A elements pretty. makes for nice clickable headers                */
+thead.fixedHeader a, thead.fixedHeader a:link, thead.fixedHeader a:visited {
+	color: #FFF;
+	display: block;
+	text-decoration: none;
+	width: 100%
+}
+
+/* make the A elements pretty. makes for nice clickable headers                */
+/* WARNING: swapping the background on hover may cause problems in WinIE 6.x   */
+thead.fixedHeader a:hover {
+	color: #FFF;
+	display: block;
+	text-decoration: underline;
+	width: 100%
+}
+
+/* define the table content to be scrollable                                              */
+/* set TBODY element to have block level attributes. All other non-IE browsers            */
+/* this enables overflow to work on TBODY element. All other non-IE, non-Mozilla browsers */
+/* induced side effect is that child TDs no longer accept width: auto                     */
+html>body tbody.scrollContent {
+	
+	/*display: block;*/
+	/*overflow: auto;*/
+	width: 100%;
+	cursor:pointer;
+	text-align: center;
+	
+
+	/*border-width:0px; 
+	padding:2px;	
+	border-style: inset; 
+    border-color: white;
+	background-color:white;
+    cursor:pointer;*/
+}
+
+/* make TD elements pretty. Provide alternating classes for striping the table */
+/* http://www.alistapart.com/articles/zebratables/                             */
+tbody.scrollContent td, tbody.scrollContent tr.normalRow td {
+	background: #FFF;
+	border-bottom: none;
+	border-left: none;
+	border-right: 1px solid #CCC;
+	border-top: 1px solid #DDD;
+	padding: 2px 3px 3px ;
+	vertical-align:center;
+}
+
+tbody.scrollContent tr.alternateRow td {
+	background: #EEE;
+	border-bottom: none;
+	border-left: none;
+	border-right: 1px solid #CCC;
+	border-top: 1px solid #DDD;
+	padding: 2px 3px 3px 4px;
+	vertical-align:center;
+}
+
+/* define width of TH elements: 1st, 2nd, and 3rd respectively.          */
+/* Add 16px to last TH for scrollbar padding. All other non-IE browsers. */
+/* http://www.w3.org/TR/REC-CSS2/selector.html#adjacent-selectors        */
+html>body thead.fixedHeader th {
+	width: 200px
+}
+
+html>body thead.fixedHeader th + th {
+	width: 240px
+}
+
+html>body thead.fixedHeader th + th + th {
+	width: 316px
+}
+
+/* define width of TD elements: 1st, 2nd, and 3rd respectively.          */
+/* All other non-IE browsers.                                            */
+/* http://www.w3.org/TR/REC-CSS2/selector.html#adjacent-selectors        */
+html>body tbody.scrollContent td {
+	width: 200px
+}
+
+html>body tbody.scrollContent td + td {
+	width: 240px
+}
+
+html>body tbody.scrollContent td + td + td {
+	width: 300px
+}
+

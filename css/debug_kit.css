@@ -1,0 +1,45 @@
+#div_debug_kit {
+    position: fixed;
+    top: 25px;
+    right:0px;
+    width: 50%;
+    max-height: 90%;
+    padding: 5px;
+    display: table-cell;
+    z-index:10000;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 12px;
+    direction: ltr;
+    background-color: gray;
+    -webkit-border-radius: 10px 0 0 0px;
+    -moz-border-radius: 10px 0 0 0px;
+    border-radius: 10px 0 0 0px;
+    overflow: auto;
+}
+
+#debug_kit_text_title {
+    position: fixed;
+    top: 2px;
+    right: 2px;
+    background-color: red;
+    text-align: center;
+    font-weight: bold;
+    float: right;
+    width: 60px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+
+#codeigniter_profiler {
+    width: 98%;
+    height: 97%;
+    /*overflow: scroll;*/
+    background-color: gray;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    text-align: left;
+}

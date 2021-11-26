@@ -1,0 +1,1250 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+<HTML>
+<HEAD>
+<meta http-equiv="Content-type" content="text/html;charset=tis-620" />
+</HEAD>
+<BODY>
+<TABLE  x:str BORDER="1">
+<tr>
+<td><b><font face="Tahoma" size=2>Date</font></b></td><td><b><font face="Tahoma" size=2>Document No.</font></b></td><td><b><font face="Tahoma" size=2>Document Ext.</font></b></td><td><b><font face="Tahoma" size=2>Document Int.</font></b></td><td><b><font face="Tahoma" size=2>document_inv</font></b></td><td><b><font face="Tahoma" size=2>document_ce</font></b></td><td><b><font face="Tahoma" size=2>Document BL.</font></b></td><td><b><font face="Tahoma" size=2>Material No.</font></b></td><td><b><font face="Tahoma" size=2>Material Description</font></b></td><td><b><font face="Tahoma" size=2>Material Status</font></b></td><td><b><font face="Tahoma" size=2>Lot No.</font></b></td><td><b><font face="Tahoma" size=2>Serial No.</font></b></td><td><b><font face="Tahoma" size=2>Material Mfd.</font></b></td><td><b><font face="Tahoma" size=2>Material Exp.</font></b></td><td><b><font face="Tahoma" size=2>Cont No./Size.</font></b></td><td><b><font face="Tahoma" size=2>Quantity</font></b></td><td><b><font face="Tahoma" size=2>UOM</font></b></td><td><b><font face="Tahoma" size=2>From</font></b></td><td><b><font face="Tahoma" size=2>To</font></b></td><td><b><font face="Tahoma" size=2>Pallet Code</font></b></td><td><b><font face="Tahoma" size=2>Remark</font></b></td><tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-001</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0061/2020</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>100-106202</font></td>
+                                                <td><font face=\"Tahoma\" size=2>RINSE DRY EXTRA 20LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0212205B2</font></td>
+						<td><font face=\"Tahoma\" size=2>10</font></td>
+                                                <td><font face=\"Tahoma\" size=2>02/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>17/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3537 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>32.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>L1 Plant</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05058</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-001</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0061/2020</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-102500</font></td>
+                                                <td><font face=\"Tahoma\" size=2>GREASECUTTER 4X3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0312205A1</font></td>
+						<td><font face=\"Tahoma\" size=2>3</font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>18/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3537 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>36.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>L1 Plant</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05048</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-001</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0061/2020</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>104-101552</font></td>
+                                                <td><font face=\"Tahoma\" size=2>ECO-STAR BUILDER C 20 LT.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0312205L1</font></td>
+						<td><font face=\"Tahoma\" size=2>9</font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>18/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3537 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>32.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>L1 Plant</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05049</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-001</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0061/2020</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>104-101552</font></td>
+                                                <td><font face=\"Tahoma\" size=2>ECO-STAR BUILDER C 20 LT.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0312205L1</font></td>
+						<td><font face=\"Tahoma\" size=2>12</font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>18/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3537 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>32.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>L1 Plant</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05050</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-001</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0061/2020</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>203-300008</font></td>
+                                                <td><font face=\"Tahoma\" size=2>AC 30 1,200 KGS.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0412205A1</font></td>
+						<td><font face=\"Tahoma\" size=2>8</font></td>
+                                                <td><font face=\"Tahoma\" size=2>04/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>19/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3537 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>1.000</font></td>
+						<td><font face=\"Tahoma\" size=2>TOTE</font></td><td><font face=\"Tahoma\" size=2>L1 Plant</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05054</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-001</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0061/2020</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>203-302833</font></td>
+                                                <td><font face=\"Tahoma\" size=2>HOROLITH FL 35 KG</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0212205A3</font></td>
+						<td><font face=\"Tahoma\" size=2>7</font></td>
+                                                <td><font face=\"Tahoma\" size=2>02/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>17/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3537 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>22.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>L1 Plant</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05053</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-001</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0061/2020</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>204-308803</font></td>
+                                                <td><font face=\"Tahoma\" size=2>TOPAX MARINE 15 30KG</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T03122033</font></td>
+						<td><font face=\"Tahoma\" size=2>5</font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>18/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3537 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>20.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>L1 Plant</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05056</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-001</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0061/2020</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>204-308803</font></td>
+                                                <td><font face=\"Tahoma\" size=2>TOPAX MARINE 15 30KG</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T03122033</font></td>
+						<td><font face=\"Tahoma\" size=2>11</font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>18/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3537 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>21.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>L1 Plant</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05057</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-001</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0061/2020</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>204-308823</font></td>
+                                                <td><font face=\"Tahoma\" size=2>TOPAX MARINE 62  35KGS.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0212205A4</font></td>
+						<td><font face=\"Tahoma\" size=2>1</font></td>
+                                                <td><font face=\"Tahoma\" size=2>02/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>31/05/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3537 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>20.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>L1 Plant</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05051</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-001</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0061/2020</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>204-308823</font></td>
+                                                <td><font face=\"Tahoma\" size=2>TOPAX MARINE 62  35KGS.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0212205A4</font></td>
+						<td><font face=\"Tahoma\" size=2>4</font></td>
+                                                <td><font face=\"Tahoma\" size=2>02/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>31/05/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3537 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>20.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>L1 Plant</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05052</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-001</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0061/2020</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>300-1110883</font></td>
+                                                <td><font face=\"Tahoma\" size=2>QSR HD MPSD 168X44ML JPN</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0112205B3</font></td>
+						<td><font face=\"Tahoma\" size=2>2</font></td>
+                                                <td><font face=\"Tahoma\" size=2>01/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>01/12/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3537 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>54.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>L1 Plant</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05047</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-001</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0061/2020</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>839-800920</font></td>
+                                                <td><font face=\"Tahoma\" size=2>CREAMIC 1 GAL</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0212201E1</font></td>
+						<td><font face=\"Tahoma\" size=2>6</font></td>
+                                                <td><font face=\"Tahoma\" size=2>02/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>22/11/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3537 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>112.000</font></td>
+						<td><font face=\"Tahoma\" size=2>GALLON</font></td><td><font face=\"Tahoma\" size=2>L1 Plant</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05055</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-002</font></td>
+						<td><font face=\"Tahoma\" size=2>PO#62774</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>R-360057</font></td>
+                                                <td><font face=\"Tahoma\" size=2>SILICONE ANTIFOAM 1410</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>H078K32023</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>05/03/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>28/02/2021</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>PO#62774 20'</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>5,000.000</font></td>
+						<td><font face=\"Tahoma\" size=2>GM</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05059</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-007</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0075-P/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>202-305207D</font></td>
+                                                <td><font face=\"Tahoma\" size=2>OXONIA ACTIVE 150 (DLD) 200 KGS</font></td>
+                                                <td><font face=\"Tahoma\" size=2>HOLD-POAA</font></td>
+						<td><font face=\"Tahoma\" size=2>T0312204A1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>28/11/2021</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>DR#0075-P/2021 20'</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>4.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05068</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-007</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0075-P/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>202-308902</font></td>
+                                                <td><font face=\"Tahoma\" size=2>TOPACTIVE DES 25 KG.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>HOLD-POAA</font></td>
+						<td><font face=\"Tahoma\" size=2>T0312204C1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>31/07/2021</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>DR#0075-P/2021 20'</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>20.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05066</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-007</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0075-P/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>202-308902</font></td>
+                                                <td><font face=\"Tahoma\" size=2>TOPACTIVE DES 25 KG.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>HOLD-POAA</font></td>
+						<td><font face=\"Tahoma\" size=2>T0312204C1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>01/07/2021</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>DR#0075-P/2021 20'</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>20.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05067</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-008</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0074/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>100-106200</font></td>
+                                                <td><font face=\"Tahoma\" size=2>RINSE DRY EXTRA 4X3.8 LT.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0212205B1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>02/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>17/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3860 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>9.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05072</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-008</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0074/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>100-106202</font></td>
+                                                <td><font face=\"Tahoma\" size=2>RINSE DRY EXTRA 20LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0212205B2</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>02/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>17/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3860 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>32.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05069</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-008</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0074/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>104-101642</font></td>
+                                                <td><font face=\"Tahoma\" size=2>ECO-STAR DETERGENT MP(N)20 LT.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0412205B4</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>04/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>19/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3860 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>32.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05076</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-008</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0074/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>204-302802</font></td>
+                                                <td><font face=\"Tahoma\" size=2>HAND FRESH 66 20 KGS.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0212205C2</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>02/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>17/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3860 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>8.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05077</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-008</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0074/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>205-301647</font></td>
+                                                <td><font face=\"Tahoma\" size=2>FERISOL 200 KGS.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0312205B2</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>18/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3860 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>4.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05073</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-008</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0074/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>205-306608</font></td>
+                                                <td><font face=\"Tahoma\" size=2>STABILON ACI 1,000 KG.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0412205B2</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>04/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>19/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3860 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>1.000</font></td>
+						<td><font face=\"Tahoma\" size=2>TOTE</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05075</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-008</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0074/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>205-308588D</font></td>
+                                                <td><font face=\"Tahoma\" size=2>TOPAX 19 (DLD) 1200 KGS.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0412205B1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>04/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>19/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3860 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>1.000</font></td>
+						<td><font face=\"Tahoma\" size=2>TOTE</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05074</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-008</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0074/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>834-803230</font></td>
+                                                <td><font face=\"Tahoma\" size=2>JUSMIN FLESH  1 GAL</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0312205B3</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>23/11/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3860 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>144.000</font></td>
+						<td><font face=\"Tahoma\" size=2>GALLON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05071</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-008</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0074/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>844-806110</font></td>
+                                                <td><font face=\"Tahoma\" size=2>RECOVER SPRAY BUFF 1 GAL</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0312201F1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>02/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>23/11/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>71-3860 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>104.000</font></td>
+						<td><font face=\"Tahoma\" size=2>GALLON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05070</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-009</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0076/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-102500</font></td>
+                                                <td><font face=\"Tahoma\" size=2>GREASECUTTER 4X3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0312205A1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>18/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2> </font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>36.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>ECOLAB</font></td><td><font face=\"Tahoma\" size=2></font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-009</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0076/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-102500</font></td>
+                                                <td><font face=\"Tahoma\" size=2>GREASECUTTER 4X3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0312205A1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>18/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2> </font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>36.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>ECOLAB</font></td><td><font face=\"Tahoma\" size=2></font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-009</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0076/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-104523D</font></td>
+                                                <td><font face=\"Tahoma\" size=2>MIKRO QUAT (DLD) 30 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T04122034</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>04/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>24/11/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2> </font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>20.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>ECOLAB</font></td><td><font face=\"Tahoma\" size=2></font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-009</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0076/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>104-101642</font></td>
+                                                <td><font face=\"Tahoma\" size=2>ECO-STAR DETERGENT MP(N)20 LT.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0412205B4</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>04/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>19/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2> </font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>32.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>ECOLAB</font></td><td><font face=\"Tahoma\" size=2></font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-009</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0076/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>205-301647</font></td>
+                                                <td><font face=\"Tahoma\" size=2>FERISOL 200 KGS.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0312205B2</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>18/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2> </font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>3.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>ECOLAB</font></td><td><font face=\"Tahoma\" size=2></font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-009</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0076/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>205-301647</font></td>
+                                                <td><font face=\"Tahoma\" size=2>FERISOL 200 KGS.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0312205B2</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>18/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2> </font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>4.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>ECOLAB</font></td><td><font face=\"Tahoma\" size=2></font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-009</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0076/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>205-308503</font></td>
+                                                <td><font face=\"Tahoma\" size=2>TOPAX 66  35 KGS.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0312205A4</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>01/06/2021</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2> </font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>20.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>ECOLAB</font></td><td><font face=\"Tahoma\" size=2></font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-009</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0076/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>834-803230</font></td>
+                                                <td><font face=\"Tahoma\" size=2>JUSMIN FLESH  1 GAL</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0312205B3</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>23/11/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2> </font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>144.000</font></td>
+						<td><font face=\"Tahoma\" size=2>GALLON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>ECOLAB</font></td><td><font face=\"Tahoma\" size=2></font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-009</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0076/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>834-803230</font></td>
+                                                <td><font face=\"Tahoma\" size=2>JUSMIN FLESH  1 GAL</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0312205B3</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>23/11/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2> </font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>144.000</font></td>
+						<td><font face=\"Tahoma\" size=2>GALLON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>ECOLAB</font></td><td><font face=\"Tahoma\" size=2></font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-009</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0076/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>844-809451</font></td>
+                                                <td><font face=\"Tahoma\" size=2>VISION PLUS 5 GAL</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0412205C2</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>04/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>24/11/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2> </font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>24.000</font></td>
+						<td><font face=\"Tahoma\" size=2>PAIL</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>ECOLAB</font></td><td><font face=\"Tahoma\" size=2></font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-010</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0077-P/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>202-305207D</font></td>
+                                                <td><font face=\"Tahoma\" size=2>OXONIA ACTIVE 150 (DLD) 200 KGS</font></td>
+                                                <td><font face=\"Tahoma\" size=2>HOLD-POAA</font></td>
+						<td><font face=\"Tahoma\" size=2>T0312204A1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>28/11/2021</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2> </font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>4.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L88 QC POAA</font></td><td><font face=\"Tahoma\" size=2></font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-010</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0077-P/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>202-305207D</font></td>
+                                                <td><font face=\"Tahoma\" size=2>OXONIA ACTIVE 150 (DLD) 200 KGS</font></td>
+                                                <td><font face=\"Tahoma\" size=2>HOLD-POAA</font></td>
+						<td><font face=\"Tahoma\" size=2>T0312204A1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>03/12/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>28/11/2021</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2> </font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>4.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L88 QC POAA</font></td><td><font face=\"Tahoma\" size=2></font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-011</font></td>
+						<td><font face=\"Tahoma\" size=2>WR#002/2021</font></td>
+						<td><font face=\"Tahoma\" size=2>RE-LABEL-LOT.NO</font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>103-105130</font></td>
+                                                <td><font face=\"Tahoma\" size=2>22 MULTI-QUAT SANITIZER 2x2 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T17112001</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>17/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>07/11/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>11111 20'</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>80.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2></font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05078</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-012</font></td>
+						<td><font face=\"Tahoma\" size=2>ECL/2021/008</font></td>
+						<td><font face=\"Tahoma\" size=2>INV2100397</font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>100-106200</font></td>
+                                                <td><font face=\"Tahoma\" size=2>RINSE DRY EXTRA 4X3.8 LT.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T021105B2</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>02/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>18/10/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>ECL/2021/008 20'</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>3.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05079</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-013</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0073/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-100830</font></td>
+                                                <td><font face=\"Tahoma\" size=2>CLEAN & SOFT AB 4X3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0911203S1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>09/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>30/10/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>83-5301 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>36.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05080</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-013</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0073/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-100830</font></td>
+                                                <td><font face=\"Tahoma\" size=2>CLEAN & SOFT AB 4X3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0911203S1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>09/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>30/10/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>83-5301 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>36.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05081</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-013</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0073/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-100830</font></td>
+                                                <td><font face=\"Tahoma\" size=2>CLEAN & SOFT AB 4X3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0911203S1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>09/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>30/10/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>83-5301 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>36.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05082</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-013</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0073/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-100830</font></td>
+                                                <td><font face=\"Tahoma\" size=2>CLEAN & SOFT AB 4X3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0911203S1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>09/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>30/10/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>83-5301 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>36.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05083</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-013</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0073/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-100830</font></td>
+                                                <td><font face=\"Tahoma\" size=2>CLEAN & SOFT AB 4X3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0911203S1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>09/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>30/10/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>83-5301 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>36.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05084</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-013</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0073/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-100830</font></td>
+                                                <td><font face=\"Tahoma\" size=2>CLEAN & SOFT AB 4X3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0911203S1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>09/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>30/10/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>83-5301 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>6.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05085</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-014</font></td>
+						<td><font face=\"Tahoma\" size=2>ECL2021/006</font></td>
+						<td><font face=\"Tahoma\" size=2>INV2100321</font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>203-302902</font></td>
+                                                <td><font face=\"Tahoma\" size=2>HOROLITH 617 25 KG</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T05112011</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>05/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>21/10/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>ECL2021/006 20'</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>10.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05086</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-015</font></td>
+						<td><font face=\"Tahoma\" size=2>ECL2021/009</font></td>
+						<td><font face=\"Tahoma\" size=2>INV2100478</font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>204-302802</font></td>
+                                                <td><font face=\"Tahoma\" size=2>HAND FRESH 66 20 KGS.</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T2311205B1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>23/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>23/11/2023</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>ECL2021/009 20'</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>3.000</font></td>
+						<td><font face=\"Tahoma\" size=2>DRUM</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05087</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-016</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0072/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-100830</font></td>
+                                                <td><font face=\"Tahoma\" size=2>CLEAN & SOFT AB 4X3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0611203S1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>06/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>10/10/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>83-5301 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>36.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05088</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-016</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0072/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-100830</font></td>
+                                                <td><font face=\"Tahoma\" size=2>CLEAN & SOFT AB 4X3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0611203S1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>06/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>10/10/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>83-5301 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>36.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05090</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-016</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0072/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-100830</font></td>
+                                                <td><font face=\"Tahoma\" size=2>CLEAN & SOFT AB 4X3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0611203S1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>06/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>10/10/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>83-5301 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>36.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05091</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-016</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0072/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-100830</font></td>
+                                                <td><font face=\"Tahoma\" size=2>CLEAN & SOFT AB 4X3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0611203S1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>06/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>10/10/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>83-5301 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>36.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05092</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-016</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0072/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-100830</font></td>
+                                                <td><font face=\"Tahoma\" size=2>CLEAN & SOFT AB 4X3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0611203S1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>06/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>10/10/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>83-5301 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>6.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05093</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-016</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0072/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-100830</font></td>
+                                                <td><font face=\"Tahoma\" size=2>CLEAN & SOFT AB 4X3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0611203S1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>06/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>27/10/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>83-5301 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>36.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05089</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-017</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0070/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-106430</font></td>
+                                                <td><font face=\"Tahoma\" size=2>SCENT & SOFT AB 4x3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0511203S1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>05/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>26/10/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>81-6901 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>36.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05094</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-017</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0070/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-106430</font></td>
+                                                <td><font face=\"Tahoma\" size=2>SCENT & SOFT AB 4x3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0511203S1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>05/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>26/10/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>81-6901 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>36.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05095</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-017</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0070/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-106430</font></td>
+                                                <td><font face=\"Tahoma\" size=2>SCENT & SOFT AB 4x3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0511203S1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>05/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>26/10/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>81-6901 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>36.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05096</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-017</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0070/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-106430</font></td>
+                                                <td><font face=\"Tahoma\" size=2>SCENT & SOFT AB 4x3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0511203S1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>05/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>26/10/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>81-6901 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>36.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05097</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-017</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0070/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-106430</font></td>
+                                                <td><font face=\"Tahoma\" size=2>SCENT & SOFT AB 4x3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0511203S1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>05/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>26/10/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>81-6901 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>36.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05098</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					<tr>
+						<td><font face=\"Tahoma\" size=2>05/12/2020</font></td>
+						<td><font face=\"Tahoma\" size=2>GRN201205-017</font></td>
+						<td><font face=\"Tahoma\" size=2>DR#0070/2021</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>102-106430</font></td>
+                                                <td><font face=\"Tahoma\" size=2>SCENT & SOFT AB 4x3.8 LT</font></td>
+                                                <td><font face=\"Tahoma\" size=2>Normal</font></td>
+						<td><font face=\"Tahoma\" size=2>T0511203S1</font></td>
+						<td><font face=\"Tahoma\" size=2> </font></td>
+                                                <td><font face=\"Tahoma\" size=2>05/11/2020</font></td>
+                                                <td><font face=\"Tahoma\" size=2>26/10/2022</font></td>
+                                                  
+                                                <td><font face=\"Tahoma\" size=2>81-6901 6Wh</font></td>  
+						<td align="right"><font face=\"Tahoma\" size=2>8.000</font></td>
+						<td><font face=\"Tahoma\" size=2>CARTON</font></td><td><font face=\"Tahoma\" size=2>ECOLAB</font></td>
+						<td><font face=\"Tahoma\" size=2>L20 JWD</font></td><td><font face=\"Tahoma\" size=2>I20-05099</font></td><td><font face=\"Tahoma\" size=2> </font></td>
+					</tr>
+					</tr>

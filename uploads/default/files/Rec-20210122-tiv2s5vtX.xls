@@ -1,0 +1,726 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+<HTML>
+<HEAD>
+<meta http-equiv="Content-type" content="text/html;charset=tis-620" />
+</HEAD>
+<BODY>
+<TABLE  x:str BORDER="1">
+<tr>
+<td><b>FirstOfTRANSDATE</b></td><td><b>FirstOfECL_TYPE</b></td><td><b>DOC-MAIN</b></td><td><b>ITEMNO</b></td><td><b>ECL_IN</b></td><td><b>JWD_IN</b></td><td><b>Diff_IN </b></td><td><b>ECL_OUT</b></td><td><b>JWD_OUT</b></td><td><b>Diff_OUT </b></td><td><b>SumDiff</b></td><tr>
+						<td>04/01/2021</td>
+						<td>Shipment</td>
+						<td>IN2031600</td>
+						<td>834-804110</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="64">64</td>
+						<td x:num="32">32</td>
+                        <td x:num="-32" >-32</td>
+						<td x:num="-32" >-32</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031628</td>
+						<td>100-106702</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="1">1</td>
+                        <td x:num="1" >1</td>
+						<td x:num="1" >1</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031628</td>
+						<td>101-104510</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="1">1</td>
+                        <td x:num="1" >1</td>
+						<td x:num="1" >1</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031628</td>
+						<td>101-104911</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="4">4</td>
+                        <td x:num="4" >4</td>
+						<td x:num="4" >4</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031628</td>
+						<td>102-100830</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="1">1</td>
+                        <td x:num="1" >1</td>
+						<td x:num="1" >1</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031628</td>
+						<td>834-804110</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="4">4</td>
+                        <td x:num="4" >4</td>
+						<td x:num="4" >4</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031628</td>
+						<td>839-801130</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="4">4</td>
+                        <td x:num="4" >4</td>
+						<td x:num="4" >4</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031631</td>
+						<td>833-806500</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="4">4</td>
+                        <td x:num="4" >4</td>
+						<td x:num="4" >4</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031631</td>
+						<td>834-801920</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="4">4</td>
+                        <td x:num="4" >4</td>
+						<td x:num="4" >4</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031631</td>
+						<td>844-802591</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="1">1</td>
+                        <td x:num="1" >1</td>
+						<td x:num="1" >1</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031635</td>
+						<td>102-18903</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="1">1</td>
+                        <td x:num="1" >1</td>
+						<td x:num="1" >1</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031635</td>
+						<td>834-803230</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="20">20</td>
+                        <td x:num="20" >20</td>
+						<td x:num="20" >20</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031635</td>
+						<td>839-800920</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="32">32</td>
+                        <td x:num="32" >32</td>
+						<td x:num="32" >32</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031635</td>
+						<td>844-3021430</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="1">1</td>
+                        <td x:num="1" >1</td>
+						<td x:num="1" >1</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031635</td>
+						<td>844-806110</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="12">12</td>
+                        <td x:num="12" >12</td>
+						<td x:num="12" >12</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031647</td>
+						<td>839-800920</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="100">100</td>
+                        <td x:num="100" >100</td>
+						<td x:num="100" >100</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031647</td>
+						<td>844-809430</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="100">100</td>
+                        <td x:num="100" >100</td>
+						<td x:num="100" >100</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031647</td>
+						<td>844-809451</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="6">6</td>
+                        <td x:num="6" >6</td>
+						<td x:num="6" >6</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031648</td>
+						<td>844-802591</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="2">2</td>
+                        <td x:num="2" >2</td>
+						<td x:num="2" >2</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031648</td>
+						<td>845-802931</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="2">2</td>
+                        <td x:num="2" >2</td>
+						<td x:num="2" >2</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031657</td>
+						<td>833-806500</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="60">60</td>
+                        <td x:num="60" >60</td>
+						<td x:num="60" >60</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031657</td>
+						<td>834-803230</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="20">20</td>
+                        <td x:num="20" >20</td>
+						<td x:num="20" >20</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031657</td>
+						<td>834-804110</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="20">20</td>
+                        <td x:num="20" >20</td>
+						<td x:num="20" >20</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031657</td>
+						<td>835-804510</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="20">20</td>
+                        <td x:num="20" >20</td>
+						<td x:num="20" >20</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031657</td>
+						<td>839-801130</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="20">20</td>
+                        <td x:num="20" >20</td>
+						<td x:num="20" >20</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031657</td>
+						<td>844-806110</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="12">12</td>
+                        <td x:num="12" >12</td>
+						<td x:num="12" >12</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031657</td>
+						<td>844-809430</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="40">40</td>
+                        <td x:num="40" >40</td>
+						<td x:num="40" >40</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>100-106200</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="10">10</td>
+                        <td x:num="10" >10</td>
+						<td x:num="10" >10</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>100-106540</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="5">5</td>
+                        <td x:num="5" >5</td>
+						<td x:num="5" >5</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>100-106602</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="2">2</td>
+                        <td x:num="2" >2</td>
+						<td x:num="2" >2</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>100-106702</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="2">2</td>
+                        <td x:num="2" >2</td>
+						<td x:num="2" >2</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>100-6100185</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="5">5</td>
+                        <td x:num="5" >5</td>
+						<td x:num="5" >5</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>101-104901</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="30">30</td>
+                        <td x:num="30" >30</td>
+						<td x:num="30" >30</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>102-102500</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="10">10</td>
+                        <td x:num="10" >10</td>
+						<td x:num="10" >10</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>102-104000</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="5">5</td>
+                        <td x:num="5" >5</td>
+						<td x:num="5" >5</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>102-106110</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="5">5</td>
+                        <td x:num="5" >5</td>
+						<td x:num="5" >5</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>103-101651</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="1">1</td>
+                        <td x:num="1" >1</td>
+						<td x:num="1" >1</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>103-104911</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="5">5</td>
+                        <td x:num="5" >5</td>
+						<td x:num="5" >5</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>103-21038</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="3">3</td>
+                        <td x:num="3" >3</td>
+						<td x:num="3" >3</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>103-6100925</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="3">3</td>
+                        <td x:num="3" >3</td>
+						<td x:num="3" >3</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>103-6101978</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="2">2</td>
+                        <td x:num="2" >2</td>
+						<td x:num="2" >2</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>104-101552</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="20">20</td>
+                        <td x:num="20" >20</td>
+						<td x:num="20" >20</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>104-101572</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="10">10</td>
+                        <td x:num="10" >10</td>
+						<td x:num="10" >10</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>104-101652</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="10">10</td>
+                        <td x:num="10" >10</td>
+						<td x:num="10" >10</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>104-101682</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="5">5</td>
+                        <td x:num="5" >5</td>
+						<td x:num="5" >5</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>104-101722</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="15">15</td>
+                        <td x:num="15" >15</td>
+						<td x:num="15" >15</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>104-101822</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="10">10</td>
+                        <td x:num="10" >10</td>
+						<td x:num="10" >10</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>104-101852</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="3">3</td>
+                        <td x:num="3" >3</td>
+						<td x:num="3" >3</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>104-114102</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="2">2</td>
+                        <td x:num="2" >2</td>
+						<td x:num="2" >2</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>833-804310</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="8">8</td>
+                        <td x:num="8" >8</td>
+						<td x:num="8" >8</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>833-806500</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="12">12</td>
+                        <td x:num="12" >12</td>
+						<td x:num="12" >12</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>839-801130</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="20">20</td>
+                        <td x:num="20" >20</td>
+						<td x:num="20" >20</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>843-805210</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="1">1</td>
+                        <td x:num="1" >1</td>
+						<td x:num="1" >1</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>OUTBOUND</td>
+						<td>IN2031658</td>
+						<td>844-800510</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="0">0</td>
+						<td x:num="4">4</td>
+                        <td x:num="4" >4</td>
+						<td x:num="4" >4</td>
+					</tr>
+                                        <tr>
+						<td>21/01/2021</td>
+						<td>INBOUND</td>
+						<td>TEST001</td>
+						<td>103-105110</td>
+						<td x:num="0">0</td>
+						<td x:num="10">10</td>
+                        <td x:num="10" >10</td>
+						<td x:num="0">0</td>
+						<td x:num="0">0</td>
+                        <td x:num="0" >0</td>
+						<td x:num="10" >10</td>
+					</tr>
+                                        </tr>
